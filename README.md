@@ -49,3 +49,8 @@ This project demonstrates how data analysis can be used to generate actionable i
 - Add profit and discount analysis
 - Build interactive Power BI dashboard
 - Perform predictive analysis (sales forecasting)
+## 📊 Power BI Dashboard
+
+Interactive dashboard built using Power BI to analyze sales performance.
+
+![Dashboard](images/dashboard.png)
